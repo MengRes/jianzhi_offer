@@ -109,7 +109,7 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 + offer_68. 二叉搜索树的最近公共祖先
 + offer_78. 把二叉树打印成多行
 + offer_79. 判断是不是平衡二叉树
-+ offer_84. 二叉树中和为某一值的路径(三)
++ offer_84. 二叉树中和为某一值的路径 (三)
 + offer_86. 在二叉树中找到两个节点的最近公共祖先
 
 队列和栈
@@ -129,12 +129,57 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 
 动态规划
 
-+ offer_10. 
-+ offer_46.
-+ offer_47.
-+ offer_48.
-+ offer_69.
-+ offer_70.
-+ offer_71.
-+ offer_85. 
++ offer_10. 斐波那契数列
++ offer_46. 把数字翻译成字符串
++ offer_47. 礼物的最大价值
++ offer_48. 最长不含重复字符的子字符串
++ offer_69. 跳台阶
++ offer_70. 矩形覆盖
++ offer_71. 跳台阶扩展问题
++ offer_85. 连续子数组的最大和（二）
 
+回溯
+
++ offer_12. 矩阵中的路径
++ offer_13. 机器人的运动范围
+
+排序
+
++ offer_03. 数组中重复的数字
++ offer_40. 最小的 k 个数
++ offer_41. 数据流中的中位数
++ offer_51. 数组中的逆序对
+
+位运算
+
++ offer_15. 二进制中 1 的个数
++ offer_16. 数值的整数次方
++ offer_56. 数组中只出现一次的两个数字
++ offer_64. 求 1 + 2 + … + n
++ offer_65. 不用加减乘除做加法
+
+模拟
+
++ offer_20. 表示数值的字符串
++ offer_29. 顺时针打印矩阵
++ offer_61. 扑克牌顺子
+
+其他算法
+
++ offer_05. 替换空格
++ offer_14. 剪绳子
++ offer_17. 打印从 1 到最大的 n 位数
++ offer_21. 调整数组顺序使奇数位于偶数前面（一）
++ offer_39. 数组中出现次数超过一半的数字
++ offer_43. 1 ～ n整数中 1 出现的次数
++ offer_45. 把数组排成最小的数
++ offer_49. 丑数
++ offer_50. 第一个只出现一次的字符
++ offer_57. 和为 s 的两个数字
++ offer_58. 左旋转字符串
++ offer_62. 圆圈中最后剩下的数字
++ offer_66. 构建乘积数组
++ offer_74. 和为 S 的连续正数序列
++ offer_75. 字符流中第一个不重复的字符
++ offer_81. 调整数组顺序使奇数位于偶数前面（二）
++ offer_83. 剪绳子（进阶版）
