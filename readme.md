@@ -1,8 +1,12 @@
 ## README
 
+[TOC]
+
 This repository recodes solutions to the problems come from jianzhi offer. For every problem, we provide the python code. Some of problems may corresponding to LeetCode, we also provide the LeetCode link.
 
-### 剑指 Offer 题目分类
+### 剑指 Offer 题目
+
+#### 题目列表
 
 下表划分了各题使用的算法与数据结构。由于题目可能存在多种解法，本表格只列举最优解法（时间与空间复杂度最低）的对应算法。
 
@@ -80,9 +84,9 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 | 85. 连续子数组的最大和（二）              |  动态规划，双指针  |                 |
 | 86. 在二叉树中找到两个节点的最近公共祖先  |      搜索算法      |       树        |
 
-按知识点分类
+#### 按知识点分类
 
-链表
+##### 链表
 
 + offer_06. 从尾到头打印链表
 + offer_18. 删除链表的节点
@@ -94,7 +98,7 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 + offer_52. 两个链表的第一个公共结点
 + offer_76. 删除链表中重复的结点
 
-树
+##### 树
 
 + offer_07. 重建二叉树
 + offer_08. 二叉树的下一个结点
@@ -112,7 +116,7 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 + offer_84. 二叉树中和为某一值的路径 (三)
 + offer_86. 在二叉树中找到两个节点的最近公共祖先
 
-队列和栈
+##### 队列和栈
 
 + offer_09. 用两个栈实现队列
 + offer_30. 包含min函数的栈
@@ -120,14 +124,14 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 + offer_59. 滑动窗口的最大值
 + offer_73. 翻转单词序列
 
-搜索算法
+##### 搜索算法
 
 + offer_11. 旋转数组的最小数字
 + offer_38. 字符串的排列
 + offer_44. 数字序列中某一位的数字
 + offer_53. 数字在升序数组中出现的字数
 
-动态规划
+##### 动态规划
 
 + offer_10. 斐波那契数列
 + offer_46. 把数字翻译成字符串
@@ -138,19 +142,19 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 + offer_71. 跳台阶扩展问题
 + offer_85. 连续子数组的最大和（二）
 
-回溯
+##### 回溯
 
 + offer_12. 矩阵中的路径
 + offer_13. 机器人的运动范围
 
-排序
+##### 排序
 
 + offer_03. 数组中重复的数字
 + offer_40. 最小的 k 个数
 + offer_41. 数据流中的中位数
 + offer_51. 数组中的逆序对
 
-位运算
+##### 位运算
 
 + offer_15. 二进制中 1 的个数
 + offer_16. 数值的整数次方
@@ -158,13 +162,13 @@ This repository recodes solutions to the problems come from jianzhi offer. For e
 + offer_64. 求 1 + 2 + … + n
 + offer_65. 不用加减乘除做加法
 
-模拟
+##### 模拟
 
 + offer_20. 表示数值的字符串
 + offer_29. 顺时针打印矩阵
 + offer_61. 扑克牌顺子
 
-其他算法
+##### 其他算法
 
 + offer_05. 替换空格
 + offer_14. 剪绳子
